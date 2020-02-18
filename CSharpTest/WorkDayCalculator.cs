@@ -19,7 +19,6 @@ namespace CSharpTest
                 }
                 
             }
-            
             DateTime endD = currDate; 
             return endD;
         }
