@@ -6,3 +6,10 @@ C:\Users\polka\Desktop\TestTask Template\CSharpTest\obj\Debug\CSharpTest.csproj.
 C:\Users\polka\Desktop\TestTask Template\CSharpTest\obj\Debug\CSharpTest.csproj.CopyComplete
 C:\Users\polka\Desktop\TestTask Template\CSharpTest\obj\Debug\CSharpTest.dll
 C:\Users\polka\Desktop\TestTask Template\CSharpTest\obj\Debug\CSharpTest.pdb
+D:\Task\CSharpTest\obj\Debug\CSharpTest.csprojAssemblyReference.cache
+D:\Task\CSharpTest\obj\Debug\CSharpTest.csproj.CoreCompileInputs.cache
+D:\Task\CSharpTest\obj\Debug\CSharpTest.dll
+D:\Task\CSharpTest\obj\Debug\CSharpTest.pdb
+d:\Task\CSharpTest\bin\Debug\CSharpTest.dll
+d:\Task\CSharpTest\bin\Debug\CSharpTest.pdb
+d:\Task\CSharpTest\obj\Debug\CSharpTest.csproj.CopyComplete
